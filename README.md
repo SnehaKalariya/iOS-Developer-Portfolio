@@ -16,7 +16,7 @@ all UAE users. Here are the few of the features where I worked on.
 fresh IPOs.
 
 #### Technologies 🔨: SwiftUI, Combine, UIKit, MVVM-C Architecture, Unit Tests, CICD, Core Animation, API Integration, SOLID
-App store: https://apps.apple.com/us/app/ivestor/id1628119841
+#### App store: https://apps.apple.com/us/app/ivestor/id1628119841
 #### Animation Snippet:
 
 https://github.com/SnehaKalariya/iOS-Developer-Portfolio/assets/39115289/7a8f548a-d82b-46d7-a769-5731b07fd47e
