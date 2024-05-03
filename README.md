@@ -15,17 +15,16 @@ all UAE users. Here are the few of the features where I worked on.
 * Invest in IPOs - Stay ahead of the curve with the ability to subscribe to
 fresh IPOs.
 
-#### Technologies 🔨: SwiftUI, Combine, UIKit, MVVM-C architecture, Unit Tests, CICD, Animations using Core Animation, REST API, SOLID, POP (Protocol Orientated Programming)
+#### Technologies 🔨: SwiftUI, Combine, UIKit, MVVM-C Architecture, Unit Tests, CICD, Core Animation, API Integration, SOLID
 App store: https://apps.apple.com/us/app/ivestor/id1628119841
 #### Animation Snippet:
 
 https://github.com/SnehaKalariya/iOS-Developer-Portfolio/assets/39115289/7a8f548a-d82b-46d7-a769-5731b07fd47e
 
 #### 🚀Platform: 📱iOS, iPhone
-<a href="url"><img src="https://github.com/SnehaKalariya/iOS-Developer-Portfolio/assets/39115289/5a7b1136-9a38-4225-ae8a-f80ceb9edfa8" align="left" height="520" width="300" > <img src="https://github.com/SnehaKalariya/iOS-Developer-Portfolio/assets/39115289/dd55aa9e-f2cc-4f98-8712-26366ba6f2dc" align="left" height="520" width="300" > <img src="https://github.com/SnehaKalariya/iOS-Developer-Portfolio/assets/39115289/397e8d14-1777-40a0-8db7-0b80529b43c4" align="left" height="520" width="300" ></a>
+<a href="url"><img src="https://github.com/SnehaKalariya/iOS-Developer-Portfolio/assets/39115289/5a7b1136-9a38-4225-ae8a-f80ceb9edfa8" align="left" height="520" width="280" > <img src="https://github.com/SnehaKalariya/iOS-Developer-Portfolio/assets/39115289/dd55aa9e-f2cc-4f98-8712-26366ba6f2dc" align="left" height="520" width="280" > <img src="https://github.com/SnehaKalariya/iOS-Developer-Portfolio/assets/39115289/397e8d14-1777-40a0-8db7-0b80529b43c4" align="left" height="520" width="280" ></a>
 
-<a href="url"><img src="https://github.com/SnehaKalariya/iOS-Developer-Portfolio/assets/39115289/1437cfd0-c479-4d59-89fa-6ddccee87536" align="left" height="520" width="300" > <img src="https://github.com/SnehaKalariya/iOS-Developer-Portfolio/assets/39115289/dd55aa9e-f2cc-4f98-8712-26366ba6f2dc" align="left" height="520" width="300" > <img src="https://github.com/SnehaKalariya/iOS-Developer-Portfolio/assets/39115289/397e8d14-1777-40a0-8db7-0b80529b43c4" align="left" height="520" width="300" ></a>
-
+<a href="url"><img src="https://github.com/SnehaKalariya/iOS-Developer-Portfolio/assets/39115289/1437cfd0-c479-4d59-89fa-6ddccee87536" align="left" height="520" width="280" > <img src="https://github.com/SnehaKalariya/iOS-Developer-Portfolio/assets/39115289/a164ed39-e7b6-423f-ad11-ca6cfb496170" align="left" height="520" width="280" > <img src="https://github.com/SnehaKalariya/iOS-Developer-Portfolio/assets/39115289/3e55b5c7-ca9e-448a-81f8-6bbdbafa4921" align="left" height="520" width="280" ></a>
 
 
 
