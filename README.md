@@ -18,7 +18,9 @@ fresh IPOs.
 #### Technologies 🔨: SwiftUI, Combine, UIKit, MVVM-C architecture, Unit Tests, CICD, Animations using Core Animation, REST API, SOLID, POP (Protocol Orientated Programming)
 App store: https://apps.apple.com/us/app/ivestor/id1628119841
 #### Animation Snippet:
-![](iVestorAnimation.mov)
+
+https://github.com/SnehaKalariya/iOS-Developer-Portfolio/assets/39115289/7a8f548a-d82b-46d7-a769-5731b07fd47e
+
 
 
 
