@@ -26,6 +26,25 @@ https://github.com/SnehaKalariya/iOS-Developer-Portfolio/assets/39115289/7a8f548
 
 <a href="url"><img src="https://github.com/SnehaKalariya/iOS-Developer-Portfolio/assets/39115289/1437cfd0-c479-4d59-89fa-6ddccee87536" align="left" height="520" width="280" > <img src="https://github.com/SnehaKalariya/iOS-Developer-Portfolio/assets/39115289/a164ed39-e7b6-423f-ad11-ca6cfb496170" align="left" height="520" width="280" > <img src="https://github.com/SnehaKalariya/iOS-Developer-Portfolio/assets/39115289/3e55b5c7-ca9e-448a-81f8-6bbdbafa4921" align="left" height="520" width="280" ></a>
 
+## McDonald’s Consumer App (USA)
+
+I had contributed to McDonald’s Consumer application for US region. Developed few features and prototypes (MVP).
+
+**Responsibilities**:
+
+* Developed prototypes (MVP) featuring innovative solutions for stakeholders and oversaw the release of the Alpha build.
+* Collaborated on integrating the Flybuy SDK with the McDonald’s app to facilitate code transmission to BLE devices.
+* Initiated the migration of several reusable features into SwiftUI and Combine, packaging them into Swift packages.
+* Designed and implemented a Plug-In to facilitate communication between UIKit and SwiftUI components.
+
+Here are the few of the features where I worked on.
+
+* Drive-thru
+* Rewards & Deals
+* Geo-fencing
+* Bluetooth connectivity (for code transmission)
+* POD Selection (way of ordering, eg. Drive-thru, Table Service, Mobile Order Ahead)
+
 
 
 
