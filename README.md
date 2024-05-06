@@ -22,9 +22,9 @@ fresh IPOs.
 https://github.com/SnehaKalariya/iOS-Developer-Portfolio/assets/39115289/7a8f548a-d82b-46d7-a769-5731b07fd47e
 
 #### 🚀Platform: 📱iOS, iPhone
-<p float="left"><a href="url"><img src="https://github.com/SnehaKalariya/iOS-Developer-Portfolio/assets/39115289/5a7b1136-9a38-4225-ae8a-f80ceb9edfa8" height="520" width="280" > <img src="https://github.com/SnehaKalariya/iOS-Developer-Portfolio/assets/39115289/dd55aa9e-f2cc-4f98-8712-26366ba6f2dc" height="520" width="280" > <img src="https://github.com/SnehaKalariya/iOS-Developer-Portfolio/assets/39115289/397e8d14-1777-40a0-8db7-0b80529b43c4" height="520" width="280" >
+<p float="left"><a href="url"><img src="https://github.com/SnehaKalariya/iOS-Developer-Portfolio/assets/39115289/5a7b1136-9a38-4225-ae8a-f80ceb9edfa8" height="520" width="270" > <img src="https://github.com/SnehaKalariya/iOS-Developer-Portfolio/assets/39115289/dd55aa9e-f2cc-4f98-8712-26366ba6f2dc" height="520" width="270" > <img src="https://github.com/SnehaKalariya/iOS-Developer-Portfolio/assets/39115289/397e8d14-1777-40a0-8db7-0b80529b43c4" height="520" width="270" >
 
-<img src="https://github.com/SnehaKalariya/iOS-Developer-Portfolio/assets/39115289/1437cfd0-c479-4d59-89fa-6ddccee87536" height="520" width="280" > <img src="https://github.com/SnehaKalariya/iOS-Developer-Portfolio/assets/39115289/a164ed39-e7b6-423f-ad11-ca6cfb496170" height="520" width="280" > <img src="https://github.com/SnehaKalariya/iOS-Developer-Portfolio/assets/39115289/3e55b5c7-ca9e-448a-81f8-6bbdbafa4921" height="520" width="280" ></a></p>
+<img src="https://github.com/SnehaKalariya/iOS-Developer-Portfolio/assets/39115289/1437cfd0-c479-4d59-89fa-6ddccee87536" height="520" width="270" > <img src="https://github.com/SnehaKalariya/iOS-Developer-Portfolio/assets/39115289/a164ed39-e7b6-423f-ad11-ca6cfb496170" height="520" width="270" > <img src="https://github.com/SnehaKalariya/iOS-Developer-Portfolio/assets/39115289/3e55b5c7-ca9e-448a-81f8-6bbdbafa4921" height="520" width="270" ></a></p>
 
 ## McDonald’s Consumer App (USA)
 
