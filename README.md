@@ -15,7 +15,7 @@ all UAE users. Here are the few of the features where I worked on.
 * Invest in IPOs - Stay ahead of the curve with the ability to subscribe to
 fresh IPOs.
 
-#### Technologies 🔨: SwiftUI, Combine, UIKit, MVVM-C Architecture, Unit Tests, CICD, Core Animation, API Integration, SOLID
+#### Technologies 🔨: SwiftUI, Combine, UIKit, MVVM-C Architecture, Unit Tests, CI/CD, Core Animation, API Integration, SOLID
 #### App store: https://apps.apple.com/us/app/ivestor/id1628119841
 #### Animation Snippet:
 
@@ -45,10 +45,21 @@ Here are the few of the features where I worked on.
 * Bluetooth connectivity (for code transmission)
 * POD Selection (way of ordering, eg. Drive-thru, Table Service, Mobile Order Ahead)
 
+#### Technologies 🔨: SwiftUI, Combine, Swift Package Manager, MVVM Architecture, Unit Tests
 #### 🚀Platform: 📱iOS, iPhone
 <p float="left"><a href="url"><img src="https://github.com/SnehaKalariya/iOS-Developer-Portfolio/assets/39115289/1d1d584a-a829-4f31-a0c2-4e4e7783353f" height="540" width="280" >
   <img src="https://github.com/SnehaKalariya/iOS-Developer-Portfolio/assets/39115289/440d4fac-484b-48f7-b55b-c1649755bff8" height="540" width="580" >
 <a href="url"><img src="https://github.com/SnehaKalariya/iOS-Developer-Portfolio/assets/39115289/8f6ba180-e557-4fa6-86a0-0cec1e744100" height="540" width="860" ></a></p>
+
+## Trading App
+
+Developed Trading app and served to various clients (Bajaj Finserv, Vishwas, Arcadia, Share India).
+#### Technologies 🔨: Swift, RXSwift, XCFramework, MVVM Architecture
+
+**Responsibilities**:
+* Led the development of a Mutual Fund application from inception to deployment.
+* Managed the migration of legacy codebase from Objective-C to Swift, ensuring smooth transition and compatibility.
+* Developed XCFrameworks for frequently used features to streamline development and improve code reusability.
 
 
 
