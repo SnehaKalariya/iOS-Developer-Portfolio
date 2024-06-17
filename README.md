@@ -42,7 +42,7 @@ Here are the few of the features where I worked on.
 * Drive-thru
 * Rewards & Deals
 * Geo-fencing
-* Bluetooth connectivity (for code transmission)
+* Bluetooth connectivity (for code transmission) 
 * POD Selection (way of ordering, eg. Drive-thru, Table Service, Mobile Order Ahead)
 
 #### Technologies 🔨: SwiftUI, Combine, Swift Package Manager, MVVM Architecture, Unit Tests
